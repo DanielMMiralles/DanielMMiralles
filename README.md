@@ -1,81 +1,94 @@
 <div align="center">
 
-  <!-- Banner de Marca D4MM -->
-  <img src="https://raw.githubusercontent.com/DanielMMiralles/Portafolio/main/src/assets/d4mm_logo_wide.jpg" alt="D4MM · Daniel M. Miralles" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+  <!-- ── 1. CYBERPUNK HUD HERO BANNER ── -->
+  <img src="https://raw.githubusercontent.com/DanielMMiralles/Portafolio/main/src/assets/d4mm_github_hero.jpg" alt="D4MM · Daniel M. Miralles" width="100%" style="border-radius: 16px; box-shadow: 0 20px 50px rgba(193,18,31,0.3);" />
 
-  # Hi there, I'm Daniel M. Miralles 👋
-  ### **Software Developer & System Engineer**
+  <br /><br />
 
-  [![Portfolio](https://img.shields.io/badge/🌐_Portafolio_Web-LIVE-F77F00?style=for-the-badge&logoColor=white)](https://danielmmiralles.github.io/Portafolio/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Mata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mata-33112a254/)
-  [![Email](https://img.shields.io/badge/Email-damm172004@gmail.com-C1121F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damm172004@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+584248677833)
-
-  <br />
-
-  <!-- Animated Typing Headline -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3500&pause=1000&color=F77F00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+NestJS+%2B+React;Arquitectura+de+Software+%2B+Agentes+IA;Desarrollador+de+Pasarelas+de+Pago+y+ERPs;Ingenier%C3%ADa+en+Sistemas+(USM)" alt="Typing SVG" />
+  <!-- ── 2. DYNAMIC NEON TYPING SVG ── -->
+  <a href="https://danielmmiralles.github.io/Portafolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=800&lines=%E2%9A%A1+SOFTWARE+DEVELOPER+%26+SYSTEM+ENGINEER;%F0%9F%94%A5+NESTJS+%2B+REACT+%2B+PYTHON+%2B+POSTGRESQL;%F0%9F%A4%96+AUTONOMOUS+AI+AGENTS+(LANGGRAPH+%2B+FASTAPI);%F0%9F%9B%A1%EF%B8%8F+SECURE+PAYMENT+GATEWAYS+%2B+ENTERPRISE+ERPS" alt="Typing SVG" />
   </a>
 
-</div>
+  <br /><br />
 
----
+  <!-- ── 3. STATUS BADGES ── -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_NEW_PROJECTS-FCBF49?style=for-the-badge&logo=rocket&logoColor=black" />
+    <img src="https://img.shields.io/badge/DEGREE-SYSTEM_ENGINEERING_(USM)-C1121F?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+    <img src="https://img.shields.io/badge/LOCATION-VENEZUELA-F77F00?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </p>
 
-### 👨‍💻 Sobre Mí (`About Me`)
-
-- 🎓 **Ingeniería en Sistemas** (finalizando en Universidad Santa María — Núcleo Oriente).
-- 💼 **3+ años de experiencia** construyendo soluciones tecnológicas aplicadas: arquitectura de software empresarial, agentes autónomos de IA, middleware de pagos y ERPs.
-- ⚡ **Enfoque Técnico**: Sistemas altamente escalables, seguridad en código, integraciones de API resilientes y diseño modular.
-- 🔒 **Experiencia Empresarial**: Desarrollo de software de grado de producción bajo acuerdos de confidencialidad (NDA).
-
----
-
-### 🛠️ Stack Tecnológico (`Skills & Tech`)
-
-<div align="center">
-
-| Categoría | Tecnologías & Herramientas |
-| :--- | :--- |
-| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| **IA & Automatización** | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+  <p align="center">
+    <a href="https://danielmmiralles.github.io/Portafolio/"><img src="https://img.shields.io/badge/🌐_PORTAFOLIO_WEB-LIVE-C1121F?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/daniel-mata-33112a254/"><img src="https://img.shields.io/badge/LinkedIn-DANIEL_MATA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:damm172004@gmail.com"><img src="https://img.shields.io/badge/Email-CONTACT_ME-D62828?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://wa.me/+584248677833"><img src="https://img.shields.io/badge/WhatsApp-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  </p>
 
 </div>
 
 ---
 
-### 📂 Casos de Estudio Destacados (`Enterprise Projects`)
+### 💻 Developer Identity (`$ cat DanielMMiralles.ts`)
 
-> *Por acuerdos de confidencialidad (NDA) con mis clientes, la interfaz y el código fuente permanecen privados. A continuación detallo los desafíos técnicos resueltos:*
->
-> 🚢 01. ERP Naviero & Gestión de Flota (Sector Marítimo) ├── Desafío : Control descentralizado de logística, inventarios navales y facturación. ├── Solución : Arquitectura NestJS + PostgreSQL + React para seguimiento en tiempo real. └── Impacto : 40% de reducción en tiempos logísticos y cero discrepancias de stock.
+```typescript
+import { SystemEngineer, FullStackDeveloper } from '@d4mm/core';
 
-🤖 02. Agente IA Autónomo CRM (WhatsApp Marketing) ├── Desafío : Atención 24/7 sin personal para calificar prospectos y procesar órdenes. ├── Solución : Agentes inteligentes LangGraph + FastAPI conectados con Supabase y WhatsApp. └── Impacto : 85% de consultas automatizadas y disponibilidad comercial continua 24/7.
+export class DanielMMiralles extends SystemEngineer implements FullStackDeveloper {
+  readonly name = 'Daniel M. Miralles';
+  readonly brand = 'D4MM';
+  readonly degree = 'Ingeniería en Sistemas (Universidad Santa María)';
+  readonly experienceYears = 3;
+  readonly corePhilosophy = 'Construir arquitectura robusta, código limpio y software sin fricción.';
 
-🛡️ 03. Middleware de Pasarela de Pagos Segura (Fintech) ├── Desafío : Conectar sistemas legacy con procesadores de pago de forma tolerante a fallos. ├── Solución : Capa middleware containerizada en Docker con encriptación AES-256 e idempotencia. └── Impacto : Latencia sub-segundo con 99.99% de disponibilidad operativa.
+  readonly currentStack = {
+    backend  : ['NestJS', 'Node.js', 'FastAPI', 'Python', 'TypeScript'],
+    frontend : ['React', 'TailwindCSS', 'GSAP', 'shadcn/ui', 'Figma'],
+    database : ['PostgreSQL', 'Supabase', 'SQL Server'],
+    aiAndAutomation : ['LangGraph', 'n8n', 'Docker', 'Git'],
+  };
 
-📄 04. Gestión Documental Corporativo (Enterprise) ├── Desafío : Trazabilidad, permisos y resguardo inmutable de documentos confidenciales. ├── Solución : Plataforma web React + Supabase (PostgreSQL RLS) con RBAC y auditoría inmutable. └── Impacto : Clasificación y auditoría en vivo del 100% de la documentación crítica.
+  readonly activeSpecialties = [
+    'Arquitectura de Microservicios & REST APIs de alta disponibilidad',
+    'Sistemas de Agentes Autónomos de IA integrados a CRM & WhatsApp',
+    'Middleware de Pasarelas de Pago Encriptadas (AES-256)',
+    'Sistemas ERP Empresariales & Gestión de Inventarios Navales',
+  ];
 
+  public getStatus(): string {
+    return '🟢 Disponible para proyectos exigentes y contratos de ingeniería.';
+  }
+}
 
----
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ ⚓ 01. ERP NAVIERO & GESTIÓN DE FLOTA (Sector Marítimo)                                 │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🔹 Desafío  : Control descentralizado de flota naviera, suministros y facturación.     │
+│ 🔹 Solución : Arquitectura NestJS + PostgreSQL + React con sincronización en vivo.    │
+│ 🔹 Impacto  : 40% reducción en tiempos logísticos y cero errores de stock.             │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 
-### 📊 Estadísticas de GitHub (`GitHub Stats`)
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🤖 02. AGENTE IA AUTÓNOMO CRM (WhatsApp Logistics)                                     │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🔹 Desafío  : Incapacidad de calificar prospectos y procesar órdenes 24/7.             │
+│ 🔹 Solución : Agentes LangGraph + FastAPI conectados con WhatsApp API y Supabase.      │
+│ 🔹 Impacto  : 85% de consultas automatizadas con atención comercial ininterrumpida.    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 
-<div align="center">
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🔒 03. MIDDLEWARE DE PASARELA DE PAGOS SEGURA (Fintech)                                │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🔹 Desafío  : Integrar sistemas legacy con procesadores encriptados sin caídas.        │
+│ 🔹 Solución : Middleware Dockerized NestJS con cifrado AES-256 e idempotencia.         │
+│ 🔹 Impacto  : Latencia sub-segundo con 99.99% de disponibilidad en picos de tráfico.  │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielMMiralles&show_icons=true&theme=dark&bg_color=0A0000&title_color=F77F00&text_color=EAE2B7&icon_color=FCBF49&border_color=C1121F&hide_border=false" alt="Daniel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMMiralles&layout=compact&theme=dark&bg_color=0A0000&title_color=F77F00&text_color=EAE2B7&icon_color=FCBF49&border_color=C1121F&hide_border=false" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-  📫 **¿Buscas desarrollar un proyecto o incorporar a un ingeniero a tu equipo?**
-  
-  [**Visitar Portafolio Web Live →**](https://danielmmiralles.github.io/Portafolio/)
-
-</div>
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 📄 04. GESTIÓN DOCUMENTAL CORPORATIVO (Enterprise)                                     │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🔹 Desafío  : Trazabilidad, permisos y seguridad de documentos confidenciales.        │
+│ 🔹 Solución : React + Supabase (PostgreSQL RLS) con RBAC y registro inmutable.          │
+│ 🔹 Impacto  : Clasificación y resguardo inmutable del 100% de la documentación.       │
+└────────────────────────────────────────────────────────────────────────────────────────┘

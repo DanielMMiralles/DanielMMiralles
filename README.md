@@ -30,9 +30,29 @@
 ### 👨‍💻 Perfil Profesional (`About Me`)
 
 - 🎓 **Ingeniería en Sistemas** (finalizando en la Universidad Santa María — Núcleo Oriente).
-- 💼 **3+ años de experiencia** en desarrollo de software, diseño de arquitectura Full Stack, agentes de IA y pasarelas de pago.
-- ⚡ **Especialidad**: Construcción de APIs resilientes, bases de datos optimizadas e interfaces web modernas y de alto rendimiento.
-- 📍 **Ubicación**: Lechería, Venezuela (Disponible para trabajo remoto e hibrido).
+- 💼 **3+ años de experiencia** en desarrollo de software Full Stack, arquitectura de APIs, agentes de IA y pasarelas de pago.
+- 🗣️ **Idiomas**: **Español** (Nativo) | **Inglés** (Avanzado C1 — Certificado IFISA).
+- 📍 **Ubicación**: Lechería, Venezuela (Disponible para trabajo remoto global e híbrido).
+
+---
+
+### 💡 Filosofía de Ingeniería (`Engineering Mindset`)
+
+> *"La simplicidad es el prerrequisito para la confiabilidad."* — Edsger W. Dijkstra
+
+- **Código Limpio & Mantenible**: Prefiero arquitecturas claras y modulares sobre soluciones sobre-diseñadas.
+- **Seguridad desde el Diseño**: Encriptación de datos, control de acceso basado en roles (RBAC) y validación estricta de payloads.
+- **Tolerancia a Fallos**: Sistemas resilientes con reintentos idempotentes y manejo de excepciones estructurado.
+
+---
+
+### 🌱 Actualmente Explorando (`Currently Exploring`)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM_Orchestration-LangChain_%26_LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-NestJS_%26_Event_Driven-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimization-PostgreSQL_Indexing_%26_RLS-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
@@ -65,6 +85,14 @@
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+</div>
+
+---
+
+### 🏆 Trofeos & Logros de GitHub (`GitHub Trophies`)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DanielMMiralles&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="Daniel's GitHub Trophies" width="90%" />
 </div>
 
 ---
